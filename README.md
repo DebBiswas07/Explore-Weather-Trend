@@ -24,8 +24,10 @@ Source: Udacity
 Method of gathering: SQL
 Wrangling
 Cut data to years 1750 - 2013
+
 Summary
-To conclude, there is a clear overall uptrend visible, what means, that the average global temperature is increasing, with an also increasing tempo.
+
+To conclude, there is a clear overall uptrend visible, what means, that the average global temperature is increasing.
 
 The german cities Hamburg, Berlin and Munich got compared to the global data (1750 - 2013):
 
